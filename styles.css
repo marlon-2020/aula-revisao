@@ -1,0 +1,17 @@
+header{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+article{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-radius: 50%;
+}
+#segundo{
+    background-color: blue;
+}
+.circulo{
+    box-shadow: 3px 2px 7px black;
+}
